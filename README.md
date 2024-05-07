@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vex1ck.Vex1cK"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vex1ck.Vex1cK&left_color=50127f&right_color=109415"/>
 </div>
 
 
