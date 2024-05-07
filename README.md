@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">❄  About me</h3>
 
 ###
 
@@ -41,10 +41,7 @@
 
 ###
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<h3 align="left">❄  Skill Set </h3>
 
 ### Tools  
 <div align="center">  
@@ -73,7 +70,7 @@
 
 
 
-### DevOps  
+### Other  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -86,7 +83,7 @@
 
 <br/>  
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">❄   Stats :</h3>
 
 ###
 
