@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@Vex1cKLive" target="_blank">
+  <a href="https://www.youtube.com/@Vex1cK" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://t.me/Vex1cK" target="_blank">
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">smthg</p>
+<p align="left">16 y.o. HSE Lyceum student | actively selling pandas</p>
 
 ###
 
