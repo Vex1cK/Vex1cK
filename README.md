@@ -42,6 +42,7 @@
 ###
 
 <h3 align="left">❄  Skill Set </h3>
+<table><tr><td valign="top" width="33%">
 
 ### Tools  
 <div align="center">  
