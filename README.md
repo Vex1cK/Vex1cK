@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">16 y.o. HSE Lyceum student | actively selling pandas (check orgs)</p>
+<p align="left">16 y.o. HSE Lyceum student | ML | Backend | Fun
 
 ###
 
