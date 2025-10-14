@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">17 y.o. HSE Lyceum student | ML | Backend | Fun
+<p align="left">17 y.o. HSE AMI student | ML | Backend | Robotics | Fun
 
 ###
 
